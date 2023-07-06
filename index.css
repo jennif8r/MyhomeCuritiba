@@ -1,0 +1,81 @@
+body {
+    
+    background-color: #dde3f1;
+  
+  }
+  .formulario {
+    background-color: #333;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    margin: 50px auto;
+    max-width: 800px;
+    padding: 40px;
+}
+.old
+  {
+    background-color: #1c1c1c;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    display: block;
+    font-size: 15px;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+
+}
+.labelPro{
+  color: #ffffff;
+  background-color: #ffffff;
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+
+}
+
+.label {
+  color: #ffffff;
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.radi{
+  border: 1px solid #ccd0d5;
+  box-sizing: border-box;
+  display: inline-block;
+  flex:  1 0 auto;
+  font-weight: normal;
+  height: 36px;
+  margin: 8px 6px 6px;
+  padding: 0;
+  position: relative;
+  margin-top: -5px;
+  width: 150px;
+  text-align:left;
+  display: flex;
+  margin: 8px 6px 6px;
+}
+.form-check-input {
+  margin-left: 20px;
+  margin-right: 200px;
+
+}
+.form-check-input {
+  margin-top: 7px;
+  margin-left: 4px;
+  margin-right: 10px;
+}
+.escolha {
+  display: flex;
+  align-items: center;
+  margin: 8px 6px 6px;
+  width: 200px;
+  text-align: left;
+}
+.close-button {
+  cursor: pointer;
+  margin-left: 10px;
+}
+.mensagem-sucesso {
+  color: green;
+}
