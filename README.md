@@ -18,5 +18,27 @@ Além disso, foi incorporado um campo de pesquisa que permite buscar oportunidad
 #### Análise de Dados:
 Na seção de análise, é disponibilizado um painel de controle com informações extraídas do banco de dados. Isso inclui análises como o total de oportunidades criadas, oportunidades ganhas e o valor total em reais das oportunidades ganhas. Além disso, é apresentada uma análise de perfil dos clientes, destacando o canal de captação de clientes mais eficaz, o gênero com maior retorno e a faixa etária predominante.
 
+## Ambiente de Desenvolvimento
+O ambiente de desenvolvimento escolhido para este projeto é o Visual Studio Code. Esta IDE oferece suporte robusto para o desenvolvimento PHP.
+
+### Banco de Dados
+Foi utilizado o  banco Mysql. 
+
+![image](https://github.com/jennif8r/MyhomeCuritiba/assets/89860341/01eb045f-5a2e-48ea-855c-d0455b7bd1b0)
+
+### Linguagens ultilizada no Projeto:
+* ![PHP](https://img.shields.io/badge/PHP-Programming%20Language-green)
+* ![HTML](https://img.shields.io/badge/HTML-Programming%20Language-orange)
+* ![CSS](https://img.shields.io/badge/CSS-Programming%20Language-blue)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-Programming%20Language-yellow)
+
+
+### Terminal
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### Estilização
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
